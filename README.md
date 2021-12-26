@@ -1,2 +1,2 @@
 
-[![SHINTA](dino.gif)]
+[![atnihs](dino.gif)]
