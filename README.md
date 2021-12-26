@@ -1,2 +1,2 @@
 
-[![J2TEAM](dino.gif)]
+[![SHINTA](dino.gif)]
