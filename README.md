@@ -1,2 +1,1 @@
-
-(dino.gif)
+[![shinta](dino.gif)]
