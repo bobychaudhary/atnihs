@@ -1,1 +1,1 @@
-![shinta](naruto.mp4)
+![shinta](https://gfycat.com/relievedweegrasshopper)
