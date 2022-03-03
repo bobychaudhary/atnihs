@@ -1,3 +1,2 @@
-![shinta](dream.jpeg)
 
-# [shinta](dino.gif)*
+![shinta](dino.gif)
