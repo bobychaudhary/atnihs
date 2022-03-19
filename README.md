@@ -1,4 +1,4 @@
 
 ![shinta](dino.gif)
 
-<a href="https://app.daily.dev/shinta"><img src="https://api.daily.dev/devcards/32d0e50c032845268747085c940f1eeb.png?r=qz9" width="400" alt="Viet Khuong's Dev Card"/></a>
+<a href="https://app.daily.dev/shinta"><img src="https://api.daily.dev/devcards/32d0e50c032845268747085c940f1eeb.png?r=qz9" margin-left:100px width="400" alt="Viet Khuong's Dev Card"/></a>
