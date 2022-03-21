@@ -1,2 +1,4 @@
-- name: @dailydotdev/devcard
-      uses: dailydotdev/action-devcard@2.0.5
+- name: devcard
+  uses: dailydotdev/action-devcard@2.0.5
+  with:
+    devcard_id: ${{ secrets.DEVCARD_ID }}
